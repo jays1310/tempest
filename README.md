@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icons/AppIcon.png" width="140"/>
+<img src="assets/icons/AppIcon.png" width="1024" alt=""/>
 
 # Tempest
 
@@ -41,38 +41,34 @@ A modern Flutter weather application featuring real-time forecasts, animated wea
 
 # 📱 Screenshots
 
-<div align="center">
+|                                  Splash Screen                                  |                                 Sunny Weather                                  |
+|:-------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+| <img src="assets/screenshots/SplashScreen.png" width="260" alt="Splash Screen"> | <img src="assets/screenshots/SunnyScreen.png" width="260" alt="Sunny Weather"> |
 
-| Splash Screen | Sunny Weather |
-|:-------------:|:-------------:|
-| <img src="assets/screenshots/SplashScreen.png" width="260"/> | <img src="assets/screenshots/SunnyScreen.png" width="260"/> |
+|                                 Night Weather                                  |                                 Rain                                 |
+|:------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|
+| <img src="assets/screenshots/NightScreen.png" width="260" alt="Night Weather"> | <img src="assets/screenshots/RainScreen.png" width="260" alt="Rain"> |
 
-| Night Weather | Rain |
-|:-------------:|:----:|
-| <img src="assets/screenshots/NightScreen.png" width="260"/> | <img src="assets/screenshots/RainScreen.png" width="260"/> |
+|                                  Thunderstorm                                   |                                  Search                                  |
+|:-------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
+| <img src="assets/screenshots/ThunderScreen.png" width="260" alt="Thunderstorm"> | <img src="assets/screenshots/SearchScreen.png" width="260" alt="Search"> |
 
-| Thunderstorm | Search |
-|:------------:|:------:|
-| <img src="assets/screenshots/ThunderScreen.png" width="260"/> | <img src="assets/screenshots/SearchScreen.png" width="260"/> |
-
-| Sky Cycle | 7-Day Forecast |
-|:---------:|:--------------:|
-| <img src="assets/screenshots/SkyCycle.png" width="260"/> | <img src="assets/screenshots/ForecastScreen.png" width="260"/> |
-
-</div>
+|                                Sky Cycle                                |                                  Forecast                                   |
+|:-----------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
+| <img src="assets/screenshots/SkyCycle.png" width="260" alt="Sky Cycle"> | <img src="assets/screenshots/ForcastScreen.png" width="260" alt="Forecast"> |
 ---
 
 # 🛠 Tech Stack
 
-| Technology | Usage |
-|------------|-------|
-| Flutter | UI Framework |
-| Dart | Programming Language |
-| Provider | State Management |
-| WeatherAPI | Weather Data |
-| Geolocator | Current Location |
-| HTTP | REST API |
-| Flutter Dotenv | API Key Security |
+| Technology     | Usage                |
+|----------------|----------------------|
+| Flutter        | UI Framework         |
+| Dart           | Programming Language |
+| Provider       | State Management     |
+| WeatherAPI     | Weather Data         |
+| Geolocator     | Current Location     |
+| HTTP           | REST API             |
+| Flutter Dotenv | API Key Security     |
 
 ---
 
